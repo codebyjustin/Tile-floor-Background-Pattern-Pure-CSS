@@ -1,0 +1,12 @@
+body {
+    background-color: #4bb0b8;
+    background-size: 100px 100px;
+    background-image: radial-gradient(#474a64 15%,
+            transparent 15%),
+        linear-gradient(45deg,
+            transparent 48%, #bfdece 48%,
+            #bfdece 52%, transparent 52%),
+        linear-gradient(-45deg,
+            transparent 48%, #bfdece 48%,
+            #bfdece 52%, transparent 52%);
+}
